@@ -1,0 +1,66 @@
+
+.name{
+    color: white;
+    background-color: black;
+    text-align: center;
+    }
+    .name_s1{
+       position: relative;
+       bottom: 20px;
+
+    }
+.items{
+    display: inline-block;
+    border-color: black;
+    border-width:3px;
+    border-style:solid;
+    width: 220px;
+    
+
+
+}
+.head{
+    display: inline;
+    width:50px;
+}
+.items:hover{
+    background-color: black;
+    color: white;
+}
+.foods
+{
+    text-align: center;
+}
+.container{
+    background-color:black;
+    margin-top:  50px;
+    padding-left: 300px;
+    
+    
+}
+.container-one{
+    color: white;
+    text-align: center;
+}
+.container-two,.container-three,.container-four{
+    color: white;
+    padding-left: 300px;
+    
+}
+.container-five{
+    background-color: yellow;
+    border: solid black 5px;
+    color: black;
+    margin-left: 300px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+    
+    
+    
+}
+.container-ten{
+    text-align: center;
+    
+}
+    
